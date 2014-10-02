@@ -1,12 +1,14 @@
 .sales__details__left[data-state="active"]{
   opacity: 1;
-  transition: all 1000ms linear;
+  top: 15em;
+  transition: all 500ms linear;
 
 }
 
 .sales__details__right[data-state="active"]{
   opacity: 1;
-  transition: all 1000ms linear;
+  top: 15em;
+  transition: all 500ms linear;
 
 }
 
@@ -95,6 +97,7 @@ body {
 
 .sales__details__left {
   left: 0;
+  top:16em;
   margin: 25px 5% 0;
   padding: 2em;
   position: absolute;
@@ -108,6 +111,7 @@ body {
 
 .sales__details__right {
   left: 0;
+  top: 16em;
   margin: 25px 5% 0;
   padding: 2em;
   position: absolute;
