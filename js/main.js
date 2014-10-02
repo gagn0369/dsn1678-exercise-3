@@ -12,7 +12,7 @@ var detailsShow = function () {
 	
 };
 
-clickArea.on("click", detailsShow);
+clickArea__left.on("click", detailsShow);
 
 var sales__details__right = $(".sales__details__right");
 
@@ -28,4 +28,4 @@ var detailsShow = function () {
 	
 };
 
-clickArea.on("click", detailsShow);
+clickArea__right.on("click", detailsShow);
