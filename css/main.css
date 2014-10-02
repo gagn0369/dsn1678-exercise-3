@@ -1,12 +1,12 @@
 .sales__details__left[data-state="active"]{
   opacity: 1;
-  transition: opacity 1000ms linear;
+  transition: all 1000ms linear;
 
 }
 
 .sales__details__right[data-state="active"]{
   opacity: 1;
-  transition: opacity 1000ms linear;
+  transition: all 1000ms linear;
 
 }
 
